@@ -10,4 +10,4 @@
 | **Forensics** | [Frontier Exposed](uni-ctf-2024/forensics/Frontier%20Exposed) | Analyze the exposed server files to uncover sensitive information and retrieve the flag.                               | ⭐ |
 | **Forensics** | [Binary Badresources](uni-ctf-2024/forensics/[Medium]%20Binary%20Badresources) | soon                                | ⭐⭐⭐ |
 | **Forensics** | [Wanter Alive](uni-ctf-2024/forensics/Wanter%20Alive)         | Analyzing an obfuscated HTA file to retrieve the flag.                             | ⭐⭐ |
-| **Web**       | [Armaxis](uni-ctf-2024/web/Armaxis)                     | soon      | ⭐ |
+| **Web**       | [Armaxis](uni-ctf-2024/web/Armaxis)                     | Exploite email token manipulation and a Markdown rendering vulnerability to gain admin access and retrieve the flag.      | ⭐ |
