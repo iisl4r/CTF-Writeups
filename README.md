@@ -9,5 +9,5 @@
 | **Crypto**    | [Exfiltrated Entropy](uni-ctf-2024/crypto/[Easy]%20Exfiltrated%20Entropy) | soon                           | ⭐⭐ |
 | **Forensics** | [Frontier Exposed](uni-ctf-2024/forensics/Frontier%20Exposed) | Analyze the exposed server files to uncover sensitive information and retrieve the flag.                               | ⭐ |
 | **Forensics** | [Binary Badresources](uni-ctf-2024/forensics/[Medium]%20Binary%20Badresources) | soon                                | ⭐⭐⭐ |
-| **Forensics** | [Wanter Alive](uni-ctf-2024/forensics/Wanter%20Alive)         | soon                             | ⭐⭐ |
+| **Forensics** | [Wanter Alive](uni-ctf-2024/forensics/Wanter%20Alive)         | Analyzing an obfuscated HTA file to retrieve the flag.                             | ⭐⭐ |
 | **Web**       | [Armaxis](uni-ctf-2024/web/Armaxis)                     | soon      | ⭐ |
