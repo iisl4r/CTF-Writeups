@@ -1,20 +1,14 @@
-
-# Binary Badresources - CTF Challenge Write-Up
+# Binary Badresources
 
 ## Challenge Overview
 
 **Category:** Forensics  
-**Challenge Name:** Binary Badresources
 
 **Description:**
 
 A malicious syndicate from the far reaches of the Frontier has deployed a weapon disguised as a harmless gift. This weapon lies dormant until activated, compromising the defensive line and allowing invaders to take control of the stronghold. Defenders must reverse-engineer and decode the weapon's mechanism to disable it and protect the Frontier Cluster.
 
 We are provided with a file named `wanted.msc`.
-
----
-
-## Walkthrough
 
 ### Step 1: Initial Analysis
 
